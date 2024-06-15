@@ -1,0 +1,11 @@
+moralis==0.1.46  # For accessing the Moralis Web3 API
+base58           # For encoding/decoding in base58
+base64           # For encoding/decoding in base64
+json             # For encoding/decoding JSON
+solders          # For various Solana blockchain functionalities
+solana           # For interacting with the Solana blockchain
+jupiter-python-sdk # For interacting with the Jupiter protocol on Solana
+asyncio          # For asynchronous programming
+flask            # For creating web applications, if you're handling web requests
+flask_cors       # For handling Cross-Origin Resource Sharing (CORS) in Flask
+python-dotenv    # For loading environment variables from a .env file
